@@ -16,5 +16,5 @@ I got my Bachelor of Engineering (B.E.) in Information Technology from the Unive
 
 Outside my academic and career persuits, I am passionate about Crossfit and the outdoors.
 My love for the outdoors stems from the fact that I'm a Punekar (Puneite) and have grown up exploring
-all scaling the forts in Maharashtra and the mountains of the Sahyadris.
+and scaling the forts around Maharashtra and the mountains in the Sahyadris.
 I've been enjoying crossfit and olympic weightlifting since 2019.
