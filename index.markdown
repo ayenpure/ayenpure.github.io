@@ -14,7 +14,7 @@ I am a Ph.D. candidate at the University of Oregon and my research intersects th
 fields of scientific visualization and high performance computing. I am advised by
 [Prof. Hank Childs](https://cdux.cs.uoregon.edu/childs.html)
 and I am a part of the [CDUX research group](https://cdux.cs.uoregon.edu/index.html).
-My research is primarily driven by contributing the open-source scientific visualization library [VTK-m](https://m.vtk.org/).
+My research is primarily driven by contributing to the open-source scientific visualization library [VTK-m](https://m.vtk.org/).
 
 Before the U of O, I worked as a Senior Software Engineer at eQ Technologic (India),
 developing ETL tools that enabled business intelligence and data migration capabilities.
