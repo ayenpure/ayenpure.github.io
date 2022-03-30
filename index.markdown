@@ -23,3 +23,5 @@ Outside my academic and career persuits, I am passionate about Crossfit and the 
 My love for the outdoors stems from the fact that I'm a Punekar (Puneite) and have grown up exploring
 and scaling the forts around Maharashtra and the mountains in the Sahyadris.
 I've been enjoying crossfit and olympic weightlifting since 2019.
+
+<iframe src="/assets/AYenpureResume.pdf" width="100%" height="500px">
