@@ -25,4 +25,19 @@ My love for the outdoors stems from the fact that I'm a Punekar (Puneite) and ha
 and scaling the forts around Maharashtra and the mountains in the Sahyadris.
 I've been enjoying crossfit and olympic weightlifting since 2019.
 
+---
+
+### Important Links
+
+[LinkedIn](https://www.linkedin.com/in/ayenpure)  
+[GitHub](https://github.com/ayenpure)  
+[GitLab](https://gitlab.kitware.com/ayenpure)  
+[Scholar](https://scholar.google.com/citations?user=B5Qfn-4AAAAJ&hl=en)  
+
+---
+
+### Resume
+
 <iframe src="/assets/AYenpureResume.pdf" width="100%" height="500px">
+
+---
