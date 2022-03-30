@@ -5,6 +5,11 @@
 layout: home
 ---
 
+<img src="/assets/AYenpure.jpeg" alt="Abhishek" style="border-radius:50%;max-width:300px;max-height:300px;width: auto;height: auto;display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
+
 I am a Ph.D. candidate at the Univerisity of Oregon and my research intersects the
 fields of scientific visualization and high performance computing. I am advised by
 Prof. Hank Childs and I am a part of the CDUX research group. My research is primarily
